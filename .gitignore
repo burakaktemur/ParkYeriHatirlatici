@@ -12,6 +12,8 @@ build.gradle
 *.gradle
 .idea/vcs.xml
 gradle/wrapper/gradle-wrapper.properties
+<<<<<<< HEAD
 .idea/modules.xml
 gradle/wrapper/gradle-wrapper.properties
 .idea/modules.xml
+>>>>>>> 062fea43a7fe1e55018cade868e65eb66b9b05ec
