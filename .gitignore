@@ -18,3 +18,6 @@ gradle/wrapper/gradle-wrapper.properties
 .idea/modules.xml
 =======
 >>>>>>> 062fea43a7fe1e55018cade868e65eb66b9b05ec
+app/build.gradle
+app/build.gradle
+.idea/misc.xml
